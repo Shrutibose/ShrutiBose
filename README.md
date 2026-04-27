@@ -16,6 +16,18 @@ implement them.
 - A commitment to writing clean, maintainable, and efficient code
 - A systems-first approach — building things that scale and last
 
+### 🛠️ Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![STOMP](https://img.shields.io/badge/STOMP-010101?style=flat&logo=socketdotio&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=flat&logo=thealgorithms&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=flat&logo=buffer&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat&logo=artificialintelligence&logoColor=white)
+
 I am hardworking and willing to put in whatever it takes. 
 I am working towards becoming a backend engineer capable of 
 designing and building production-ready systems.
