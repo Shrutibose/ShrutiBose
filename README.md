@@ -18,25 +18,32 @@ implement them.
 
 ### 🛠️ Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
-![STOMP](https://img.shields.io/badge/STOMP-010101?style=flat&logo=socketdotio&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-00599C?style=flat&logo=thealgorithms&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=flat&logo=buffer&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat&logo=artificialintelligence&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![STOMP](https://img.shields.io/badge/STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+
+### 🔐 Security & Cryptography
+
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-DC143C?style=for-the-badge&logo=lock&logoColor=white)
+![RSA-OAEP](https://img.shields.io/badge/RSA--OAEP-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Hybrid Encryption](https://img.shields.io/badge/Hybrid_Encryption-333333?style=for-the-badge&logo=blueprint&logoColor=white)
+![SHA-256](https://img.shields.io/badge/SHA--256-4B0082?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### 🔧 Tools I Work With
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 I am hardworking and willing to put in whatever it takes. 
 I am working towards becoming a backend engineer capable of 
