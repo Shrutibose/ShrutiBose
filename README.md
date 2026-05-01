@@ -14,7 +14,7 @@ implement them.
 **What I bring:**
 - A problem-solving mindset built on strong fundamentals
 - A commitment to writing clean, maintainable, and efficient code
-- A systems-first approach — building things that scale and last
+- A systems-first approach - building things that scale and last
 
 ### 🛠️ Technologies
 
