@@ -29,12 +29,6 @@ implement them.
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
 ![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=artificialintelligence&logoColor=white)
 
-### 🔐 Security & Cryptography
-
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-DC143C?style=for-the-badge&logo=lock&logoColor=white)
-![RSA-OAEP](https://img.shields.io/badge/RSA--OAEP-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Hybrid Encryption](https://img.shields.io/badge/Hybrid_Encryption-333333?style=for-the-badge&logo=blueprint&logoColor=white)
-![SHA-256](https://img.shields.io/badge/SHA--256-4B0082?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### 🔧 Tools I Work With
 
